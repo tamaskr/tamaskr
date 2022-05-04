@@ -3,15 +3,17 @@
 
 <h3 >About me </h3> 
   
--  🎓 I'm a 2nd year IT student at Metropolia University of Applied Sciences
+-  🎓 I'm a 3rd year IT student at Metropolia University of Applied Sciences
 -  💼 Currently working part-time at Reactron Technologies Ltd
--  🌱 I'm currently learning Swift and SwiftUI
+-  🌱 I'm currently learning web development with Next.js and Tailwind
 -  📫 You can reach me on <a href="https://linkedin.com/in/tkralusz" target="blank"> LinkedIn </a> or by email tamas.kralusz@reactron.dev
 
 <h3> Tech Stack </h3> 
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js"/>
+  
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin"/>
   <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift"/>
